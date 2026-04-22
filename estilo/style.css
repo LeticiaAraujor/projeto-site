@@ -6,11 +6,12 @@
 body {
     background-color: rgb(169, 133, 202);
 }
+ 
 
 main {
-    background-color: aliceblue;
+    background-color: white;
     width: 500px;
     margin: auto;
     padding: 10 px;
-    box-shadow: 3px 3px 5px black;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
